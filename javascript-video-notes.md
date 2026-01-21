@@ -1,6 +1,9 @@
-video 1. Opitaan alkeet, jotta jatkossa on helpompi kehittyä itsenäisesti. 
-2.  ei tarvi kertoa mitä muuttujat on, javascript tunnistaa esim muuttua x = 0 eli numero. Javascriptiä on kaikkialla. Käytetyin ohjelmointikieli maailmassa.
-3. Client, kun käyttää javascriptiä html:ssä tarvii <script> <script> sarakkeet. serverillä tarvii node.js. npm sisältää valmiita paketteja toiminnallisuuksiin.
+##video 1. 
+Opitaan alkeet, jotta jatkossa on helpompi kehittyä itsenäisesti. 
+##video 2.
+Ei tarvi kertoa mitä muuttujat on, javascript tunnistaa esim muuttua x = 0 eli numero. Javascriptiä on kaikkialla. Käytetyin ohjelmointikieli maailmassa.
+##video 3. 
+Client, kun käyttää javascriptiä html:ssä tarvii <script> <script> sarakkeet. serverillä tarvii node.js. npm sisältää valmiita paketteja toiminnallisuuksiin.
 4. VSC hyvä editori javascriptille. Käteviä extensioneita! ESLint, Prettier, JavaScript (ES6) code snippets. NVM (node version manager) lataa ja päivittää Node.js 
 5. Demo jossa näyttää asentelut.
 6. Tehään Node.js appi. Tekstin pitää olla ”sisällä” muuten js luulee että yrittää kirjoittaa komentoa. 
